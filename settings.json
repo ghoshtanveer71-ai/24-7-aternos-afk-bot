@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
+    "ip": "HEADSMPS4-NbIX.aternos.me",
+    "port": 19132,
     "version": "1.20.1",
     "try-creative": false
   },
